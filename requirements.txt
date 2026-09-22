@@ -1,1 +1,3 @@
-
+streamlit&gt;=1.38
+pandas&gt;=2.0
+psycopg2-binary&gt;=2.9
